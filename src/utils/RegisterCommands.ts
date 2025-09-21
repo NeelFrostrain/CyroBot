@@ -5,7 +5,8 @@ import ICommand from "../base/interface/ICommand";
 import { REST, Routes } from "discord.js";
 
 const commands: any[] = [];
-const BOT_TOKEN = "Add When Needed"; //? Add form Dotenv when needed
+const BOT_TOKEN =
+  "MTQxODYyMjg0MDE4NTQyMTgzNg.Gc89j5.X7PNwgPd_6wFmqrBfLsKQoT4XndsChTqU-9N3E"; //? Add form Dotenv when needed
 
 const CLIENT_ID = "1418622840185421836"; //? Client id
 
