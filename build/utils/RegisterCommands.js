@@ -3,7 +3,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { REST, Routes } from "discord.js";
 const commands = [];
-const BOT_TOKEN = "MTQxODYyMjg0MDE4NTQyMTgzNg.GL7-Fo.xbNoxYj0Y9ZL9hFFdiQjZJYMNGKixBzwKZvAOU"; //? Add form Dotenv when needed
+const BOT_TOKEN = "DDDDDDDDDD"; //? Add form Dotenv when needed
 const CLIENT_ID = "1418622840185421836"; //? Client id
 //? LoadCommands Function
 const loadCommands = async () => {
